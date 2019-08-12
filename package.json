@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-starter-organization",
+  "description": "Gatsby starter for gatsby-theme-organization",
+  "version": "1.0.0",
+  "author": "Aivan Monceller",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "gatsby"
+  ],
+  "dependencies": {
+    "@geocine/gatsby-theme-organization": "^1.0.7",
+    "gatsby": "^2.13.58",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
