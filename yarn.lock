@@ -931,10 +931,10 @@
     signedsource "^1.0.0"
     yargs "^9.0.0"
 
-"@geocine/gatsby-theme-organization@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@geocine/gatsby-theme-organization/-/gatsby-theme-organization-1.0.7.tgz#080e47e8eab630924458cfc844cab654a4503977"
-  integrity sha512-MJ0VlBvZD4yuRIQTio5VizDJw2EhpGHpsD0LEAnNRfwW4nmw1LP3qUhhdf00cW/St2ExnbEcaWQ+svfUCuHBEQ==
+"@geocine/gatsby-theme-organization@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@geocine/gatsby-theme-organization/-/gatsby-theme-organization-1.0.8.tgz#c8457df0334942c0636b6e18310a67f9efe4b4b2"
+  integrity sha512-r7S856ImnZ3ie5x183zSR+yibO8F8PcjqyqRV8zMC1m948b8/FGh4Re8/rAaBqEvbkYTFbqxvoXGdGRiv45QkA==
   dependencies:
     "@emotion/core" "^10.0.15"
     "@emotion/styled" "^10.0.15"
